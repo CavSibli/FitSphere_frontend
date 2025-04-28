@@ -1,0 +1,1 @@
+// Configuration du routeur avec react-router-dom v6 

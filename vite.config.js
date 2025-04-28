@@ -1,0 +1,1 @@
+// Configuration Vite avec proxy vers le backend 
